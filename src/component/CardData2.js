@@ -64,9 +64,7 @@ export default function CardData2() {
             </li>
           </ul>
           <div className="d-grid">
-            <a href="#" className="btn btn-primary text-uppercase">
-              Button
-            </a>
+            <a className="btn btn-primary text-uppercase">Button</a>
           </div>
         </div>
       </div>
